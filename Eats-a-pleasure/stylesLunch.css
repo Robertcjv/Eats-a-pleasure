@@ -1,0 +1,64 @@
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #E76F51;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 10px 100px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #F4A261;
+  color: white;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #F4A261;
+  padding: 10px 700px;
+  color: white;
+}
+h1
+{
+  font-family: 'Nunito', sans-serif;
+  font-size: 400%;
+}
+h2
+{
+  font-family: 'Work Sans', sans-serif;
+  font-size: 200%;
+  line-height: 190%;
+  text-align: justify;
+}
+ul
+{
+  font-family: 'Work Sans', sans-serif;
+  font-size: 200%;
+  line-height: 190%;
+  text-align: justify;
+}
+ol
+{
+  font-family: 'Work Sans', sans-serif;
+  font-size: 200%;
+  line-height: 190%;
+  text-align: justify;
+}
+header
+{
+  font-family: 'Chakra Petch', sans-serif;
+  font-size: 80%;
+}
+footer
+{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 70%;
+}
